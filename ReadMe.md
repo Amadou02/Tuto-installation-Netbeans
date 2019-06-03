@@ -27,7 +27,7 @@ ___
 * Ouvrez le Terminal et saisissez le commande ci-dessous
 
       1. sudo apt install php-xdebug
-      2. sudo nano /etc/php/7.0/mods-available/xdebug.ini
+      2. sudo nano /etc/php/7.2/mods-available/xdebug.ini
       3. remplacer le contenu par le code suivant
 
       zend_extension=/usr/lib/php/20170718/xdebug.so
